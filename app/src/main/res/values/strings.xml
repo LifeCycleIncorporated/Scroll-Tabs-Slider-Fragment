@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scroll Tabs Slider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello One fragment</string>
+    <string name="hello_blank_fragment2">Hello Two fragment</string>
+    <string name="hello_blank_fragment3">Hello Three fragment</string>
+</resources>
